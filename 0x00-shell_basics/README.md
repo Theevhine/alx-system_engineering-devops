@@ -1,2 +1,3 @@
-readme
-random
+#!/bin/bash
+pwd
+
